@@ -22,43 +22,26 @@
   </b>
   </p>
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning ReactJS && Node/express && TS
 
 <br>
 
 ## Keep in touch with me 😊
-<a href="https://twitter.com/schleidens_dev">
-<img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
-</a>
+
 <a href="https://instagram.com/schleidens.dev">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/alectineschleidens">
+<a href="https://www.linkedin.com/in/saurav-rajauriya-b6b85517a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://facebook.com/elhermano.dejesus">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://dev.to/schleidens">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-</a>
-<a href="https://discord.gg/fAuyjtSR">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+
 
 <br />
 <br />
-
-## StreakStats 🚀
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Schleidens&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 -----
 <br />
 
-
-Credit: [Schleidens.Dev](https://github.com/Schleidens)
-
-Last Edited on: 27/11/2022
