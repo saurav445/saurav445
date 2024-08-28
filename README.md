@@ -25,15 +25,13 @@ I am Saurav, a technology enthusiast with a deep passion for front-end developme
 
 ## Keep in touch with me 😊
 
-<a href="https://instagram.com/schleidens.dev">
+<a href="https://instagram.com/rajoriyasaurav">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/saurav-rajauriya-b6b85517a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://facebook.com/elhermano.dejesus">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+
 
 
 <br />
