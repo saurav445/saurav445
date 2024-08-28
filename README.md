@@ -4,7 +4,7 @@
 **Enthusiast web developer** 
 <br>
 <br>
-<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/dart-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+<img src="https://img.shields.io/badge/Flutter-00C58E?style=for-the-badge&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-35495E?style=for-the-badge&logo=dart&logoColor=4FC08D"/>
 <br>
 
 
