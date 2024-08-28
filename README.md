@@ -13,12 +13,10 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
-  I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
-  i like to learn new technology and update myself. i also like to contribute in open sources projects
+I am Saurav, a technology enthusiast with a deep passion for front-end development. Currently, I work on my projects using Flutter, a framework I enjoy for its cross-platform capabilities and beautiful UI components. I am constantly updating my skills and love exploring new technologies. I'm also passionate about contributing to open-source projects and enjoy collaborating with the community. Working with you on Flutter projects is a pleasure for me! 😇
 
 
-  working with you is already a pleasure for me &#128519;
+
   </b>
   </p>
 
